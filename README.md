@@ -1,3 +1,5 @@
+This is a github repository based on [the original NGAT repository](https://github.com/FreddieNIU/NGAT) which has several fixes assisted by Copilot and ChatGPT to fill missing files and data from the original repository that is missing from the code.
+
 The original paper is [NGAT: A Node-level Graph Attention Network
 for Long-term Stock Prediction](https://arxiv.org/pdf/2507.02018), their GitHub repository is located [here](https://github.com/FreddieNIU/NGAT/tree/main).
 
