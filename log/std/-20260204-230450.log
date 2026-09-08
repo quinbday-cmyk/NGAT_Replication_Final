@@ -1,0 +1,7 @@
+Epoch = 300, lr = 0.0001, save = False, load_path = No 
+epoch: 0 
+Train Loss: 1.9703671601196673 
+Dev Loss: 0.7332635603817615 
+epoch: 20 
+Train Loss: 0.6662705080117296 
+Dev Loss: 0.6300005504602668 

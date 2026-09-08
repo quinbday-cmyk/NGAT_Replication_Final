@@ -1,0 +1,26 @@
+Graph Parameters: {'dynamic': 'cooccur', 'num_node_features': 8, 'matrix_node_features': True, 'node_normalize': 'mean', 'num_Y_features': 3, 'Y_type': 'std', 'classification': True, 'graph_level_task': False, 'estimation_window': 21, 'num_edge_features': 1, 'weighted_edge': True, 'threshold': 0, 'root': 'C:\\Users\\quinb\\Desktop\\UW CFRM\\522\\Research Paper 1\\522 Replication Code\\NGAT\\data\\graph_sets', 'name': 'ACL2018'} 
+Epoch = 300, lr = 0.0001, save = False, load_path = No 
+epoch: 0 
+Train Loss: 0.1949933540746124 
+Dev Loss: -0.3614634286426008 
+epoch: 20 
+Train Loss: 0.1326524078943709 
+Dev Loss: -0.36276673348620536 
+epoch: 40 
+Train Loss: 0.13265859945447264 
+Dev Loss: -0.36276686677709225 
+epoch: 60 
+Train Loss: 0.13265808909085153 
+Dev Loss: -0.3627695619314909 
+epoch: 80 
+Train Loss: 0.13265780032652627 
+Dev Loss: -0.36277054343372583 
+epoch: 100 
+Train Loss: 0.13265749736930485 
+Dev Loss: -0.36277159536257386 
+epoch: 120 
+Train Loss: 0.132657340667383 
+Dev Loss: -0.36277185333892703 
+epoch: 140 
+Train Loss: 0.13265716670207495 
+Dev Loss: -0.3627719759941101 

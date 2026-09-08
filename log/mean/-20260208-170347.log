@@ -1,0 +1,5 @@
+Graph Parameters: {'dynamic': 'cooccur', 'num_node_features': 8, 'matrix_node_features': True, 'node_normalize': 'mean', 'num_Y_features': 3, 'Y_type': 'mean', 'classification': True, 'graph_level_task': False, 'estimation_window': 21, 'num_edge_features': 1, 'weighted_edge': True, 'threshold': 0, 'root': 'C:\\Users\\quinb\\Desktop\\UW CFRM\\522\\Research Paper 1\\522 Replication Code\\NGAT\\data\\graph_sets', 'name': 'New Data Generation'} 
+Epoch = 300, lr = 0.0001, save = False, load_path = No 
+epoch: 0 
+Train Loss: 0.7881999284314652 
+Dev Loss: 0.6939886212348938 

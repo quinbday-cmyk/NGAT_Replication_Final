@@ -1,0 +1,25 @@
+Epoch = 300, lr = 0.0001, save = False, load_path = No 
+epoch: 0 
+Train Loss: 2.05174711958236 
+Dev Loss: 0.7328360265672544 
+epoch: 20 
+Train Loss: 0.6632952815710135 
+Dev Loss: 0.6341744334826654 
+epoch: 40 
+Train Loss: 0.6169637841257699 
+Dev Loss: 0.6237175264698036 
+epoch: 60 
+Train Loss: 0.5830929057368183 
+Dev Loss: 0.6158551309031918 
+epoch: 80 
+Train Loss: 0.5644690320298484 
+Dev Loss: 0.6142488985980281 
+epoch: 100 
+Train Loss: 0.5532563536329272 
+Dev Loss: 0.6113608209659892 
+epoch: 120 
+Train Loss: 0.5441113607892957 
+Dev Loss: 0.6116567695926886 
+epoch: 140 
+Train Loss: 0.5368526838505284 
+Dev Loss: 0.612634055080092 
